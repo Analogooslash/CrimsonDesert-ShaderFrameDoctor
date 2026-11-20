@@ -164,3 +164,4 @@ No game binaries, save files, or copyrighted assets are included in this reposit
 - [MHWilds-ShaderFrameDoctor](../MHWilds-ShaderFrameDoctor) — Monster Hunter Wilds `shader.cache2` & VRAM check
 
 *Independent community project. Not affiliated with Pearl Abyss, Valve, or Steam. All trademarks belong to their respective owners.*
+ 
